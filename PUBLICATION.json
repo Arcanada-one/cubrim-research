@@ -1,0 +1,99 @@
+{
+  "schema_version": 1,
+  "title": "Cubrim Research public document set",
+  "publication_date": "2026-11-18",
+  "default_language": "en",
+  "languages": [
+    "en",
+    "ru",
+    "zh-CN"
+  ],
+  "rights": {
+    "basis": "Product documentation publication authorized by the project owner.",
+    "reuse": "No repository-wide reuse license is granted by publication; third-party rights and notices are retained.",
+    "product_source": "Proprietary product implementations are not part of this document set."
+  },
+  "manifest_excludes_itself": true,
+  "files": [
+    {
+      "path": "AGENTS.md",
+      "language": "en",
+      "sha256": "ccb0bccff27e668317954d66b093fce4c92456b49d2dfe474aa5c145e08074e3"
+    },
+    {
+      "path": "CONTRIBUTING.md",
+      "language": "en",
+      "sha256": "e331e28c8a82af21c99f45eb57ef25b4e9af4a2dbaa7ba20339e308c85c4c231"
+    },
+    {
+      "path": "METHODOLOGY.md",
+      "language": "en",
+      "sha256": "dc68b6e087cf15b4499855b5734db48814f8b737d92280346e800f739e11e7c2"
+    },
+    {
+      "path": "README.md",
+      "language": "en",
+      "sha256": "94cf7177f6713ef6b05be016fb97bd08a1e2dae717b9904ffda1d923675636dc"
+    },
+    {
+      "path": "RESEARCH-AGENDA.md",
+      "language": "en",
+      "sha256": "3a9e302d8e1c24e2fd78340d5c590a08e09e51a083d14e23d90c96d5d96657f5"
+    },
+    {
+      "path": "ROADMAP.md",
+      "language": "en",
+      "sha256": "0c45d29c347a114f9fa86a65876aa0217cc5ef42a5bcde58c4a5fe6c5da43ef9"
+    },
+    {
+      "path": "docs/ru/CONTRIBUTING.md",
+      "language": "ru",
+      "sha256": "43f4bf381b20d969b9883219f6249f621276ad135d47b02fd0b6f57470f8333e"
+    },
+    {
+      "path": "docs/ru/METHODOLOGY.md",
+      "language": "ru",
+      "sha256": "2e8e153732397283d2a2297c4bc733ace2471a609fbff28d85786015b1cf1317"
+    },
+    {
+      "path": "docs/ru/OVERVIEW.md",
+      "language": "ru",
+      "sha256": "8254df715207359a3fba4f18774225bda6203b3e824fdc8d6f50dcbf1dbdcac5"
+    },
+    {
+      "path": "docs/ru/RESEARCH-AGENDA.md",
+      "language": "ru",
+      "sha256": "5376696efd2675dacc7fc7e6640c63291f5430254a4ff74486a9099729c84da9"
+    },
+    {
+      "path": "docs/ru/ROADMAP.md",
+      "language": "ru",
+      "sha256": "0a02fc85b3d78aa2da06811318d393eb85d9bd3705b7751027b854df0d7cc75b"
+    },
+    {
+      "path": "docs/zh-CN/CONTRIBUTING.md",
+      "language": "zh-CN",
+      "sha256": "3650091e4f99af6bf070fad68315e51ea866e846a117d4a98210477183fe9c31"
+    },
+    {
+      "path": "docs/zh-CN/METHODOLOGY.md",
+      "language": "zh-CN",
+      "sha256": "9a7b5405e05a6567d258253877537d2b64fad5d6e8830f31539f47700b284ccd"
+    },
+    {
+      "path": "docs/zh-CN/OVERVIEW.md",
+      "language": "zh-CN",
+      "sha256": "e1e5470d40ab3c5c4cddd6b052a0781b4c445f6f133f2adb1065bd060f21bcb9"
+    },
+    {
+      "path": "docs/zh-CN/RESEARCH-AGENDA.md",
+      "language": "zh-CN",
+      "sha256": "9dafeecd40ed4b5dd1b72e072fd36dca889055c9f9cfdebb5372f1fee5f9a17f"
+    },
+    {
+      "path": "docs/zh-CN/ROADMAP.md",
+      "language": "zh-CN",
+      "sha256": "a8d0824c1b880e3e4abc33f96f4e6b1dde1d3b6cdbae5ecdcb95651809423027"
+    }
+  ]
+}
