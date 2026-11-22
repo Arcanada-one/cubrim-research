@@ -17,3 +17,8 @@ Make small reviewable changes. Add new documents to the index. Check links, refe
 The Cubrim collective has architecture and engineering roles, but public contributions do not confer production, credential, repository-administration or product-release authority. Do not expand permissions or spending, disable checks, change licensing, rewrite history or publish an unreviewed private export. Public-research review is separate from approval to release commercial binaries.
 
 No agent process, scheduler or benchmark campaign is started by these instructions. Use the actual authorized runtime and task process; never manufacture assignment or completion evidence.
+
+## Post-merge cleanup
+After a merge to `main` and its deploy, delete the merged branch, local worktrees and clones, build outputs, and unused CI artifacts.
+Never delete unmerged work; finish it into `main`.
+See [the ecosystem mandate](https://github.com/Arcanada-one/arcanada-workspace/blob/main/documentation/mandates/post-merge-cleanup-mandate.md).
